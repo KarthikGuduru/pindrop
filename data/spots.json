@@ -1,0 +1,1806 @@
+[
+  {
+    "id": "taj-mahal",
+    "name": "Taj Mahal",
+    "state": "Uttar Pradesh",
+    "region": "North India",
+    "category": "heritage",
+    "coordinates": [
+      78.0421,
+      27.1751
+    ],
+    "isScore": 9.8,
+    "scores": {
+      "accessibility": 9.0,
+      "heritageValue": 10.0,
+      "scenery": 9.8,
+      "culturalRichness": 10.0,
+      "crowdLevel": 3.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg",
+    "heroCaption": "Taj Mahal at sunrise, Agra",
+    "fieldNotes": "An ivory-white marble mausoleum on the south bank of the Yamuna, built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. A UNESCO World Heritage Site and one of the New Seven Wonders of the World.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": true,
+      "activities": [
+        "Photography",
+        "Heritage Walk",
+        "Sunrise Viewing",
+        "Archaeology"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "7–8 million",
+      "trafficData": [
+        40,
+        45,
+        60,
+        70,
+        65,
+        50,
+        30,
+        25,
+        35,
+        65,
+        90,
+        80
+      ]
+    },
+    "entryFees": {
+      "indian": "₹50",
+      "foreign": "₹1,300",
+      "notes": "Closed on Fridays. Moonlight viewing available on full moon nights."
+    },
+    "stayOptions": "Wide range from budget guesthouses in Taj Ganj to luxury hotels like Oberoi Amarvilas with direct Taj views.",
+    "permits": "No special permits. Online tickets at asi.payumoney.com recommended to avoid queues."
+  },
+  {
+    "id": "varanasi",
+    "name": "Varanasi Ghats",
+    "state": "Uttar Pradesh",
+    "region": "North India",
+    "category": "spiritual",
+    "coordinates": [
+      82.9739,
+      25.3176
+    ],
+    "isScore": 9.5,
+    "scores": {
+      "accessibility": 8.0,
+      "heritageValue": 9.5,
+      "scenery": 8.5,
+      "culturalRichness": 10.0,
+      "crowdLevel": 4.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg",
+    "heroCaption": "Evening Ganga Aarti at Dashashwamedh Ghat",
+    "fieldNotes": "One of the world's oldest living cities. The sacred ghats along the Ganges are a living tapestry of life, death, and spirituality — where pilgrims bathe, priests chant, and the evening Ganga Aarti sets the river ablaze with lamps.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": false,
+      "activities": [
+        "Boat Ride",
+        "Ganga Aarti",
+        "Temple Visits",
+        "Cultural Walk"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": false,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "3–4 million",
+      "trafficData": [
+        50,
+        55,
+        60,
+        55,
+        45,
+        35,
+        30,
+        30,
+        40,
+        65,
+        80,
+        70
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "Free",
+      "notes": "Boat rides along the ghats: ₹100–500 per person."
+    },
+    "stayOptions": "Guesthouses along the ghats for an authentic experience. Luxury options available at BrijRama Palace.",
+    "permits": "No permits required. Respectful dress code expected near temples."
+  },
+  {
+    "id": "golden-temple",
+    "name": "Golden Temple",
+    "state": "Punjab",
+    "region": "North India",
+    "category": "spiritual",
+    "coordinates": [
+      74.8765,
+      31.62
+    ],
+    "isScore": 9.6,
+    "scores": {
+      "accessibility": 9.5,
+      "heritageValue": 9.8,
+      "scenery": 9.5,
+      "culturalRichness": 10.0,
+      "crowdLevel": 3.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Golden_Temple_of_Amrithsar_7.jpg",
+    "heroCaption": "Harmandir Sahib gleaming at night, Amritsar",
+    "fieldNotes": "The holiest shrine in Sikhism, Sri Harmandir Sahib (The Abode of God) is a breathtaking structure of gold-plated marble surrounded by the Amrit Sarovar (Pool of Nectar). Open to everyone regardless of faith.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": false,
+      "activities": [
+        "Prayer",
+        "Langar (Community Kitchen)",
+        "Night Photography",
+        "Heritage Walk"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "100,000+ daily",
+      "trafficData": [
+        70,
+        72,
+        75,
+        70,
+        65,
+        60,
+        55,
+        55,
+        60,
+        70,
+        80,
+        78
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "Free",
+      "notes": "Head covering and washed feet required before entry."
+    },
+    "stayOptions": "Free Saraie (pilgrim accommodation) available. Luxury hotels nearby in Amritsar.",
+    "permits": "No permits required. No leather items allowed inside."
+  },
+  {
+    "id": "hampi",
+    "name": "Hampi Ruins",
+    "state": "Karnataka",
+    "region": "South India",
+    "category": "heritage",
+    "coordinates": [
+      76.46,
+      15.335
+    ],
+    "isScore": 9.2,
+    "scores": {
+      "accessibility": 6.5,
+      "heritageValue": 9.8,
+      "scenery": 9.0,
+      "culturalRichness": 9.5,
+      "crowdLevel": 8.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg",
+    "heroCaption": "Ancient Vijayanagara ruins among boulders, Hampi",
+    "fieldNotes": "A UNESCO World Heritage Site and the former capital of the great Vijayanagara Empire. Bizarre boulder-strewn landscapes frame over 1,600 surviving remains of temples, palaces, and bazaars dating back to the 14th century.",
+    "summary": {
+      "bestTimeToVisit": "October–February",
+      "unescoListed": true,
+      "activities": [
+        "Archaeology",
+        "Cycling",
+        "Rock Climbing",
+        "Sunrise at Matanga Hill"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": false,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "500,000+",
+      "trafficData": [
+        55,
+        60,
+        65,
+        50,
+        30,
+        20,
+        18,
+        20,
+        30,
+        55,
+        70,
+        65
+      ]
+    },
+    "entryFees": {
+      "indian": "₹40",
+      "foreign": "₹600",
+      "notes": "Virupaksha Temple free to enter. Archaeological site ticket separate."
+    },
+    "stayOptions": "Guesthouses in Hampi Bazaar and Virupapur Gaddi. Limited options — book ahead in peak season.",
+    "permits": "No special permits. ASI ticket required for main enclosure."
+  },
+  {
+    "id": "amber-fort",
+    "name": "Amber Fort",
+    "state": "Rajasthan",
+    "region": "West India",
+    "category": "fort",
+    "coordinates": [
+      75.8513,
+      26.9855
+    ],
+    "isScore": 9.0,
+    "scores": {
+      "accessibility": 8.5,
+      "heritageValue": 9.2,
+      "scenery": 9.0,
+      "culturalRichness": 9.0,
+      "crowdLevel": 5.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/f/fb/20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg",
+    "heroCaption": "Amber Fort overlooking Maota Lake, Jaipur",
+    "fieldNotes": "Perched on a rocky hillside and overlooking Maota Lake, Amber Fort is the crown jewel of Jaipur. Built in 1592 by Raja Man Singh, its blend of Rajput and Mughal architecture is a visual masterpiece — intricate mirror work, ornate gates, and sprawling courtyards.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": true,
+      "activities": [
+        "Heritage Walk",
+        "Elephant Ride",
+        "Light & Sound Show",
+        "Photography"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "1.5 million+",
+      "trafficData": [
+        60,
+        65,
+        70,
+        60,
+        45,
+        30,
+        25,
+        28,
+        40,
+        65,
+        80,
+        75
+      ]
+    },
+    "entryFees": {
+      "indian": "₹100",
+      "foreign": "₹500",
+      "notes": "Light & Sound show tickets separate: ₹200–295."
+    },
+    "stayOptions": "Stay in Jaipur city — wide range from heritage havelis to luxury resorts.",
+    "permits": "No special permits. Photography inside requires ₹100 camera fee."
+  },
+  {
+    "id": "jaisalmer-fort",
+    "name": "Jaisalmer Fort",
+    "state": "Rajasthan",
+    "region": "West India",
+    "category": "fort",
+    "coordinates": [
+      70.9083,
+      26.9124
+    ],
+    "isScore": 9.1,
+    "scores": {
+      "accessibility": 7.0,
+      "heritageValue": 9.5,
+      "scenery": 9.2,
+      "culturalRichness": 9.0,
+      "crowdLevel": 7.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/4/47/Jaisalmer_forteresse.jpg",
+    "heroCaption": "The golden Sonar Quila rising from the Thar Desert",
+    "fieldNotes": "Rising dramatically from the golden sands of the Thar Desert, Jaisalmer Fort (Sonar Quila) is one of the world's few living forts — a quarter of the city's population still resides within its ancient walls. A UNESCO World Heritage Site.",
+    "summary": {
+      "bestTimeToVisit": "October–February",
+      "unescoListed": true,
+      "activities": [
+        "Desert Safari",
+        "Camel Ride",
+        "Cultural Walk",
+        "Sunset Views"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "300,000+",
+      "trafficData": [
+        55,
+        60,
+        65,
+        50,
+        25,
+        15,
+        12,
+        15,
+        25,
+        55,
+        70,
+        62
+      ]
+    },
+    "entryFees": {
+      "indian": "₹50",
+      "foreign": "₹250",
+      "notes": "Desert safaris from Jaisalmer: ₹1,000–3,000 per person."
+    },
+    "stayOptions": "Camps in the Thar Desert dunes, or heritage havelis inside the fort walls.",
+    "permits": "No special permits. Entry to fort palaces requires ticket."
+  },
+  {
+    "id": "mehrangarh-fort",
+    "name": "Mehrangarh Fort",
+    "state": "Rajasthan",
+    "region": "West India",
+    "category": "fort",
+    "coordinates": [
+      73.0243,
+      26.298
+    ],
+    "isScore": 9.3,
+    "scores": {
+      "accessibility": 8.0,
+      "heritageValue": 9.5,
+      "scenery": 9.5,
+      "culturalRichness": 9.2,
+      "crowdLevel": 6.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mehrangarh_Fort_sanhita.jpg",
+    "heroCaption": "Mehrangarh towering above the Blue City of Jodhpur",
+    "fieldNotes": "One of India's largest forts, Mehrangarh rises 125 metres above the 'Blue City' of Jodhpur. Its massive walls, intricate carvings, and sweeping views of the blue-painted old city make it one of the most spectacular fortresses in all of India.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": false,
+      "activities": [
+        "Museum Visit",
+        "Zip-lining",
+        "Photography",
+        "Cultural Show"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "700,000+",
+      "trafficData": [
+        60,
+        62,
+        65,
+        55,
+        35,
+        22,
+        18,
+        20,
+        35,
+        60,
+        75,
+        70
+      ]
+    },
+    "entryFees": {
+      "indian": "₹100",
+      "foreign": "₹600",
+      "notes": "Audio guide available. Zip-line experience extra."
+    },
+    "stayOptions": "Stay in Jodhpur old city for authentic experience. RAAS Jodhpur is a renowned boutique heritage hotel.",
+    "permits": "No special permits required."
+  },
+  {
+    "id": "mysore-palace",
+    "name": "Mysore Palace",
+    "state": "Karnataka",
+    "region": "South India",
+    "category": "heritage",
+    "coordinates": [
+      76.6552,
+      12.3052
+    ],
+    "isScore": 8.9,
+    "scores": {
+      "accessibility": 9.0,
+      "heritageValue": 9.0,
+      "scenery": 8.5,
+      "culturalRichness": 9.2,
+      "crowdLevel": 5.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mysore_Palace_Morning.jpg",
+    "heroCaption": "Mysore Palace illuminated at night",
+    "fieldNotes": "The official residence of the Wadiyar dynasty and seat of the Kingdom of Mysore, this Indo-Saracenic masterpiece is among the most visited monuments in India. It is famously illuminated by 97,000 light bulbs on Sundays and during Dasara festival.",
+    "summary": {
+      "bestTimeToVisit": "October–February",
+      "unescoListed": false,
+      "activities": [
+        "Palace Tour",
+        "Night Illumination",
+        "Dasara Festival",
+        "Chamundi Hills"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": false,
+      "beginnerFriendly": true,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "6 million+",
+      "trafficData": [
+        50,
+        52,
+        58,
+        60,
+        55,
+        40,
+        35,
+        38,
+        45,
+        75,
+        90,
+        65
+      ]
+    },
+    "entryFees": {
+      "indian": "₹70",
+      "foreign": "₹200",
+      "notes": "No photography inside the palace. Phone must be deposited."
+    },
+    "stayOptions": "Mysore is well connected. Stay at heritage hotels like Lalitha Mahal Palace Hotel.",
+    "permits": "No special permits. Bags must be checked at entry."
+  },
+  {
+    "id": "ajanta-ellora",
+    "name": "Ajanta & Ellora Caves",
+    "state": "Maharashtra",
+    "region": "West India",
+    "category": "heritage",
+    "coordinates": [
+      75.7006,
+      20.5518
+    ],
+    "isScore": 9.4,
+    "scores": {
+      "accessibility": 7.0,
+      "heritageValue": 10.0,
+      "scenery": 8.5,
+      "culturalRichness": 10.0,
+      "crowdLevel": 7.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ajanta_%2863%29.jpg",
+    "heroCaption": "Rock-cut Buddhist cave murals at Ajanta",
+    "fieldNotes": "Two extraordinary UNESCO World Heritage Sites in Maharashtra. Ajanta's 30 rock-cut Buddhist cave monasteries contain some of the finest surviving examples of ancient Indian murals. Ellora's 34 caves represent Buddhist, Hindu, and Jain traditions side by side.",
+    "summary": {
+      "bestTimeToVisit": "November–March",
+      "unescoListed": true,
+      "activities": [
+        "Archaeology",
+        "Cave Exploration",
+        "Art History",
+        "Photography"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "600,000+",
+      "trafficData": [
+        55,
+        60,
+        65,
+        55,
+        35,
+        20,
+        15,
+        18,
+        30,
+        58,
+        70,
+        62
+      ]
+    },
+    "entryFees": {
+      "indian": "₹30 (Ajanta), ₹40 (Ellora)",
+      "foreign": "₹500 each",
+      "notes": "Ajanta closed on Mondays. Ellora closed on Tuesdays."
+    },
+    "stayOptions": "Stay in Aurangabad (30 km from Ellora, 100 km from Ajanta). Luxury options at Vivanta Aurangabad.",
+    "permits": "No special permits. Video cameras attract additional fee."
+  },
+  {
+    "id": "khajuraho",
+    "name": "Khajuraho Temples",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "category": "heritage",
+    "coordinates": [
+      79.9199,
+      24.8318
+    ],
+    "isScore": 9.0,
+    "scores": {
+      "accessibility": 6.5,
+      "heritageValue": 9.8,
+      "scenery": 8.0,
+      "culturalRichness": 9.8,
+      "crowdLevel": 8.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/e/e7/1_Khajuraho.jpg",
+    "heroCaption": "Intricate erotic carvings on Khajuraho temple facades",
+    "fieldNotes": "A group of Hindu and Jain temples built between 950–1050 CE, celebrated for their exquisite nagara-style architecture and erotic sculptures. A UNESCO World Heritage Site that stands as a pinnacle of medieval Indian art.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": true,
+      "activities": [
+        "Temple Art",
+        "Dance Festival",
+        "Photography",
+        "Archaeology"
+      ],
+      "familyFriendly": false,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "300,000+",
+      "trafficData": [
+        50,
+        55,
+        58,
+        45,
+        25,
+        18,
+        15,
+        18,
+        28,
+        50,
+        65,
+        58
+      ]
+    },
+    "entryFees": {
+      "indian": "₹40",
+      "foreign": "₹600",
+      "notes": "Western group entry ticket covers main temples."
+    },
+    "stayOptions": "Small town with decent hotel options. Lalit Temple View is a good choice for views of the temples.",
+    "permits": "No special permits."
+  },
+  {
+    "id": "ranthambore",
+    "name": "Ranthambore National Park",
+    "state": "Rajasthan",
+    "region": "West India",
+    "category": "wildlife",
+    "coordinates": [
+      76.4026,
+      26.0173
+    ],
+    "isScore": 9.0,
+    "scores": {
+      "accessibility": 7.5,
+      "heritageValue": 7.0,
+      "scenery": 9.0,
+      "culturalRichness": 7.5,
+      "crowdLevel": 7.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ranthambore_National_Park.JPG",
+    "heroCaption": "Royal Bengal Tiger in Ranthambore",
+    "fieldNotes": "One of India's best tiger reserves, Ranthambore is famed for its tigers being visible in daylight around ancient ruins and lakes — unlike most other parks. The historic Ranthambore Fort overlooks the tiger habitat, adding a dramatic backdrop.",
+    "summary": {
+      "bestTimeToVisit": "October–June",
+      "unescoListed": false,
+      "activities": [
+        "Tiger Safari",
+        "Bird Watching",
+        "Fort Exploration",
+        "Jeep Safari"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": false,
+      "permitRequired": "Safari Permit"
+    },
+    "basics": {
+      "visitorsPerYear": "150,000+",
+      "trafficData": [
+        55,
+        58,
+        62,
+        65,
+        60,
+        0,
+        0,
+        0,
+        0,
+        50,
+        70,
+        62
+      ]
+    },
+    "entryFees": {
+      "indian": "₹1,200 (Jeep)",
+      "foreign": "₹2,500 (Jeep)",
+      "notes": "Park closed July–September for monsoon. Advance booking essential."
+    },
+    "stayOptions": "Sawai Madhopur town has many safari lodges. Aman-i-Khás and KHEM Villas are top choices.",
+    "permits": "Online booking mandatory via rajasthanwildlife.in. Slots fill up fast."
+  },
+  {
+    "id": "kaziranga",
+    "name": "Kaziranga National Park",
+    "state": "Assam",
+    "region": "Northeast India",
+    "category": "wildlife",
+    "coordinates": [
+      93.37,
+      26.5775
+    ],
+    "isScore": 9.2,
+    "scores": {
+      "accessibility": 6.0,
+      "heritageValue": 8.5,
+      "scenery": 9.2,
+      "culturalRichness": 8.0,
+      "crowdLevel": 8.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Beauty_of_Kaziranga_National_Park.jpg",
+    "heroCaption": "One-horned rhinoceros grazing in Kaziranga",
+    "fieldNotes": "A UNESCO World Heritage Site holding two-thirds of the world's one-horned rhinoceros population. The park's dense tall elephant grass, semi-tropical forests, and interconnected streams also support the world's highest density of tigers.",
+    "summary": {
+      "bestTimeToVisit": "November–April",
+      "unescoListed": true,
+      "activities": [
+        "Rhino Safari",
+        "Elephant Safari",
+        "Bird Watching",
+        "Jeep Safari"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": false,
+      "permitRequired": "Entry Permit"
+    },
+    "basics": {
+      "visitorsPerYear": "170,000+",
+      "trafficData": [
+        55,
+        60,
+        65,
+        60,
+        30,
+        0,
+        0,
+        0,
+        0,
+        45,
+        68,
+        60
+      ]
+    },
+    "entryFees": {
+      "indian": "₹250",
+      "foreign": "₹1,000",
+      "notes": "Elephant safaris: ₹1,400 per person. Park closed May–October."
+    },
+    "stayOptions": "Forest lodges inside the park and resorts in Kohora village. Infinitea and Wild Grass Lodge are popular.",
+    "permits": "Park entry permits required. Elephant safari permits often booked weeks in advance."
+  },
+  {
+    "id": "valley-of-flowers",
+    "name": "Valley of Flowers",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "category": "wildlife",
+    "coordinates": [
+      79.6069,
+      30.728
+    ],
+    "isScore": 9.5,
+    "scores": {
+      "accessibility": 4.0,
+      "heritageValue": 8.0,
+      "scenery": 10.0,
+      "culturalRichness": 6.0,
+      "crowdLevel": 9.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/5/50/Valley_of_flowers_national_park%2C_Uttarakhand%2C_India_03_%28edit%29.jpg",
+    "heroCaption": "Meadows of endemic flowers, Valley of Flowers",
+    "fieldNotes": "A UNESCO World Heritage Site in the Western Himalayas, accessible only on foot. This national park is renowned for its meadows of endemic alpine flowers and diverse fauna. Open only July–September during blooming season — a truly other-worldly experience.",
+    "summary": {
+      "bestTimeToVisit": "July–September only",
+      "unescoListed": true,
+      "activities": [
+        "Trekking",
+        "Photography",
+        "Bird Watching",
+        "Botanical Exploration"
+      ],
+      "familyFriendly": false,
+      "photographyAllowed": true,
+      "beginnerFriendly": false,
+      "permitRequired": "Forest Permit"
+    },
+    "basics": {
+      "visitorsPerYear": "10,000+",
+      "trafficData": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        80,
+        90,
+        70,
+        0,
+        0,
+        0
+      ]
+    },
+    "entryFees": {
+      "indian": "₹150/day",
+      "foreign": "₹600/day",
+      "notes": "Only accessible July–September. 17 km trek from Govindghat."
+    },
+    "stayOptions": "Camping not allowed inside. Stay in Ghangaria village (3 km from entry). Basic guesthouses only.",
+    "permits": "Forest Department permit required. Register at Govindghat before trekking."
+  },
+  {
+    "id": "manali",
+    "name": "Manali",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "category": "hill-station",
+    "coordinates": [
+      77.1887,
+      32.2396
+    ],
+    "isScore": 8.8,
+    "scores": {
+      "accessibility": 7.5,
+      "heritageValue": 6.5,
+      "scenery": 9.5,
+      "culturalRichness": 7.5,
+      "crowdLevel": 5.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/0/03/Manali_City.jpg",
+    "heroCaption": "Snow-capped peaks above the Beas River Valley, Manali",
+    "fieldNotes": "Nestled in the mountains of the Beas River Valley at 2,050 m altitude, Manali is the adventure capital of Himachal Pradesh. Gateway to Lahaul-Spiti valley and Rohtang Pass, it offers everything from skiing and paragliding to quiet riverside walks.",
+    "summary": {
+      "bestTimeToVisit": "October–June",
+      "unescoListed": false,
+      "activities": [
+        "Skiing",
+        "Paragliding",
+        "Trekking",
+        "River Rafting",
+        "Rohtang Pass"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "Rohtang Permit"
+    },
+    "basics": {
+      "visitorsPerYear": "2 million+",
+      "trafficData": [
+        30,
+        35,
+        45,
+        60,
+        75,
+        80,
+        65,
+        70,
+        60,
+        50,
+        35,
+        28
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "Free",
+      "notes": "Rohtang Pass requires permit ₹500 per vehicle. Book online."
+    },
+    "stayOptions": "Wide range from backpacker hostels in old Manali to luxury resorts. Solang Valley has ski resorts.",
+    "permits": "Rohtang Pass permit mandatory (online booking only, limited daily slots)."
+  },
+  {
+    "id": "darjeeling",
+    "name": "Darjeeling",
+    "state": "West Bengal",
+    "region": "East India",
+    "category": "hill-station",
+    "coordinates": [
+      88.2627,
+      27.041
+    ],
+    "isScore": 8.7,
+    "scores": {
+      "accessibility": 7.0,
+      "heritageValue": 8.0,
+      "scenery": 9.5,
+      "culturalRichness": 8.5,
+      "crowdLevel": 6.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/9/96/DarjeelingTrainFruitshop_%282%29.jpg",
+    "heroCaption": "Kanchenjunga from Tiger Hill, Darjeeling at dawn",
+    "fieldNotes": "The 'Queen of Hills', Darjeeling sits at 2,042 m with dramatic views of Kanchenjunga, the world's third highest peak. Famous for its tea gardens, the nostalgic Darjeeling Himalayan Railway (a UNESCO heritage site), and warm Nepali-Tibetan culture.",
+    "summary": {
+      "bestTimeToVisit": "March–May, September–November",
+      "unescoListed": true,
+      "activities": [
+        "Tea Garden Tours",
+        "Toy Train Ride",
+        "Tiger Hill Sunrise",
+        "Trekking"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "700,000+",
+      "trafficData": [
+        30,
+        35,
+        55,
+        65,
+        70,
+        45,
+        30,
+        35,
+        50,
+        70,
+        55,
+        35
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "Free",
+      "notes": "Toy train UNESCO joy ride: ₹240 (Indian), ₹1,000 (foreign)."
+    },
+    "stayOptions": "Heritage hotels like Windamere Hotel and The Elgin. Tea estate stays available.",
+    "permits": "No special permits. Inner Line Permit required for Sikkim onward."
+  },
+  {
+    "id": "munnar",
+    "name": "Munnar",
+    "state": "Kerala",
+    "region": "South India",
+    "category": "hill-station",
+    "coordinates": [
+      77.0595,
+      10.0889
+    ],
+    "isScore": 8.8,
+    "scores": {
+      "accessibility": 7.5,
+      "heritageValue": 7.0,
+      "scenery": 9.5,
+      "culturalRichness": 7.5,
+      "crowdLevel": 6.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Munnar_Overview.jpg",
+    "heroCaption": "Rolling tea estates carpeting the hills of Munnar",
+    "fieldNotes": "A stunning hill station in Kerala's Western Ghats, Munnar is famous for its endless emerald tea plantations rolling over misty mountain tops. Home to the Neelakurinji flower that blooms only once every 12 years, and Eravikulam National Park.",
+    "summary": {
+      "bestTimeToVisit": "September–March",
+      "unescoListed": false,
+      "activities": [
+        "Tea Estate Walks",
+        "Nilgiri Tahr Spotting",
+        "Trekking",
+        "Waterfalls"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "1 million+",
+      "trafficData": [
+        45,
+        48,
+        55,
+        60,
+        55,
+        40,
+        35,
+        38,
+        55,
+        70,
+        65,
+        50
+      ]
+    },
+    "entryFees": {
+      "indian": "Free (entry)",
+      "foreign": "Free",
+      "notes": "Eravikulam NP entry: ₹125 Indian, ₹400 foreign."
+    },
+    "stayOptions": "Tea estate bungalows for an immersive experience. Wide range in Munnar town.",
+    "permits": "No special permits. Eravikulam NP may close during peak season."
+  },
+  {
+    "id": "coorg",
+    "name": "Coorg",
+    "state": "Karnataka",
+    "region": "South India",
+    "category": "hill-station",
+    "coordinates": [
+      75.7382,
+      12.3375
+    ],
+    "isScore": 8.6,
+    "scores": {
+      "accessibility": 8.0,
+      "heritageValue": 7.0,
+      "scenery": 9.0,
+      "culturalRichness": 8.5,
+      "crowdLevel": 6.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tadiandamol_Valley%2C_Western_Ghats.jpg",
+    "heroCaption": "Coffee and spice plantations blanketing the Coorg hills",
+    "fieldNotes": "Known as the 'Scotland of India', Coorg (Kodagu) is a misty highland region blanketed in coffee, cardamom, and pepper plantations. The Kodava people have a unique warrior culture, and the landscape is dotted with cascading waterfalls and monasteries.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": false,
+      "activities": [
+        "Coffee Plantation Walk",
+        "River Rafting",
+        "Trekking",
+        "Waterfalls"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "1.5 million+",
+      "trafficData": [
+        45,
+        48,
+        55,
+        60,
+        55,
+        35,
+        30,
+        35,
+        55,
+        72,
+        68,
+        52
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "Free",
+      "notes": "Plantation stays often include guided coffee tours."
+    },
+    "stayOptions": "Plantation homestays are the authentic way to experience Coorg. Range from budget to luxury.",
+    "permits": "No permits required."
+  },
+  {
+    "id": "goa-beaches",
+    "name": "Goa Beaches",
+    "state": "Goa",
+    "region": "West India",
+    "category": "beach",
+    "coordinates": [
+      74.006,
+      15.2993
+    ],
+    "isScore": 8.9,
+    "scores": {
+      "accessibility": 9.5,
+      "heritageValue": 7.5,
+      "scenery": 9.0,
+      "culturalRichness": 9.0,
+      "crowdLevel": 4.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/f/fc/BeachFun.jpg",
+    "heroCaption": "Golden sands and palm trees on a North Goa beach",
+    "fieldNotes": "India's smallest state packs in 105 km of coastline spanning from the party beaches of North Goa to the serene, reef-fringed shores of South Goa. Portuguese colonial heritage, vibrant nightlife, spiced seafood, and year-round sunshine make it iconic.",
+    "summary": {
+      "bestTimeToVisit": "November–February",
+      "unescoListed": false,
+      "activities": [
+        "Beach",
+        "Water Sports",
+        "Portuguese Heritage",
+        "Nightlife",
+        "Seafood"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "7–8 million",
+      "trafficData": [
+        75,
+        70,
+        65,
+        55,
+        40,
+        20,
+        15,
+        18,
+        25,
+        60,
+        85,
+        90
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "Free",
+      "notes": "Water sport prices vary. Scuba diving packages from ₹3,000."
+    },
+    "stayOptions": "Wide range from beach shacks and hostels to 5-star beach resorts. Book early for Christmas/New Year.",
+    "permits": "No permits required for beaches."
+  },
+  {
+    "id": "radhanagar-beach",
+    "name": "Radhanagar Beach",
+    "state": "Andaman & Nicobar",
+    "region": "Island",
+    "category": "beach",
+    "coordinates": [
+      92.9376,
+      11.981
+    ],
+    "isScore": 9.4,
+    "scores": {
+      "accessibility": 5.0,
+      "heritageValue": 7.0,
+      "scenery": 10.0,
+      "culturalRichness": 6.5,
+      "crowdLevel": 9.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/6/63/Havelock%2C_Andaman_%26_Nicobar_Islands.JPG",
+    "heroCaption": "Crystal turquoise waters of Radhanagar Beach, Havelock Island",
+    "fieldNotes": "Consistently ranked among Asia's best beaches, Radhanagar (Beach No. 7) on Havelock Island has powder-white sand backed by dense tropical forest, and crystal-clear turquoise water. Spectacular sunsets and excellent snorkelling in the shallows.",
+    "summary": {
+      "bestTimeToVisit": "October–May",
+      "unescoListed": false,
+      "activities": [
+        "Snorkelling",
+        "Scuba Diving",
+        "Sunset Views",
+        "Swimming",
+        "Beach Walk"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "Andaman Permit"
+    },
+    "basics": {
+      "visitorsPerYear": "50,000+",
+      "trafficData": [
+        55,
+        60,
+        65,
+        70,
+        65,
+        50,
+        40,
+        40,
+        45,
+        55,
+        60,
+        58
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "Free",
+      "notes": "Scuba diving ₹3,500–4,500. Ferry from Port Blair to Havelock."
+    },
+    "stayOptions": "Havelock Island has eco-resorts and boutique hotels. Barefoot at Havelock is the most famous.",
+    "permits": "Andaman Restricted Area Permit mandatory for all visitors. Issued on arrival at Port Blair airport."
+  },
+  {
+    "id": "varkala",
+    "name": "Varkala Beach",
+    "state": "Kerala",
+    "region": "South India",
+    "category": "beach",
+    "coordinates": [
+      76.7165,
+      8.7379
+    ],
+    "isScore": 8.7,
+    "scores": {
+      "accessibility": 8.0,
+      "heritageValue": 7.5,
+      "scenery": 9.0,
+      "culturalRichness": 8.0,
+      "crowdLevel": 8.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/4/49/Varkala_Beach%2C_Varkala%2C_Kerala.jpg",
+    "heroCaption": "Dramatic red laterite cliffs above Varkala Beach",
+    "fieldNotes": "Unlike any other beach in Kerala, Varkala's golden beach is dramatically backed by towering red laterite cliffs lined with cafes and yoga studios. Also a pilgrimage site — the ancient Janardhana Swami temple overlooks the sea.",
+    "summary": {
+      "bestTimeToVisit": "September–March",
+      "unescoListed": false,
+      "activities": [
+        "Beach",
+        "Yoga",
+        "Cliff Walk",
+        "Temple Visit",
+        "Ayurvedic Treatment"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "200,000+",
+      "trafficData": [
+        55,
+        58,
+        60,
+        50,
+        35,
+        20,
+        18,
+        20,
+        35,
+        60,
+        70,
+        62
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "Free",
+      "notes": "Beach is free. Cliff-top yoga classes and ayurvedic centres widely available."
+    },
+    "stayOptions": "Cliff-top guesthouses with sea views. Budget to mid-range options. Cave Beach Resort for secluded stays.",
+    "permits": "No permits required."
+  },
+  {
+    "id": "meenakshi-temple",
+    "name": "Meenakshi Amman Temple",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "category": "spiritual",
+    "coordinates": [
+      78.1198,
+      9.9195
+    ],
+    "isScore": 9.3,
+    "scores": {
+      "accessibility": 8.5,
+      "heritageValue": 9.5,
+      "scenery": 8.5,
+      "culturalRichness": 10.0,
+      "crowdLevel": 4.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/e/e9/An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg",
+    "heroCaption": "Towering gopurams of Meenakshi Amman Temple, Madurai",
+    "fieldNotes": "A historic Hindu temple complex dedicated to Goddess Meenakshi, a form of Parvati, and her consort Shiva. Its 14 gateway towers (gopurams) encrusted with thousands of brightly painted sculptures are among the most breathtaking examples of Dravidian architecture.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": false,
+      "activities": [
+        "Temple Darshan",
+        "Gopuram Climb",
+        "Evening Procession",
+        "Photography"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": false,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "15,000+ daily",
+      "trafficData": [
+        60,
+        62,
+        65,
+        60,
+        55,
+        50,
+        48,
+        48,
+        52,
+        65,
+        72,
+        68
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "₹50",
+      "notes": "Non-Hindus not allowed inside sanctum. Camera strictly prohibited."
+    },
+    "stayOptions": "Wide range in Madurai. Heritage hotels like Visalam and Gateway Hotel Pasumalai.",
+    "permits": "No permits. Dress code: traditional Indian attire preferred."
+  },
+  {
+    "id": "qutub-minar",
+    "name": "Qutub Minar",
+    "state": "Delhi",
+    "region": "North India",
+    "category": "heritage",
+    "coordinates": [
+      77.1855,
+      28.5245
+    ],
+    "isScore": 8.8,
+    "scores": {
+      "accessibility": 9.5,
+      "heritageValue": 9.5,
+      "scenery": 8.0,
+      "culturalRichness": 9.0,
+      "crowdLevel": 5.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Qutb_Minar_2022.jpg",
+    "heroCaption": "The soaring minaret of Qutb ud-Din Aibak, Delhi",
+    "fieldNotes": "A UNESCO World Heritage Site and the world's tallest brick minaret at 72.5 m, built in 1193 by Qutb ud-Din Aibak. The complex also houses the 7th century iron pillar that has refused to rust for over 1,600 years — a metallurgical mystery.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": true,
+      "activities": [
+        "Heritage Walk",
+        "Architecture",
+        "Photography",
+        "Iron Pillar"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "3 million+",
+      "trafficData": [
+        55,
+        58,
+        65,
+        65,
+        60,
+        45,
+        38,
+        40,
+        50,
+        65,
+        72,
+        62
+      ]
+    },
+    "entryFees": {
+      "indian": "₹40",
+      "foreign": "₹600",
+      "notes": "Metro accessible - Qutab Minar station on Yellow Line."
+    },
+    "stayOptions": "Stay in South Delhi or central Delhi. Wide range of hotels in the city.",
+    "permits": "No special permits."
+  },
+  {
+    "id": "red-fort",
+    "name": "Red Fort",
+    "state": "Delhi",
+    "region": "North India",
+    "category": "heritage",
+    "coordinates": [
+      77.241,
+      28.6562
+    ],
+    "isScore": 8.9,
+    "scores": {
+      "accessibility": 9.5,
+      "heritageValue": 9.5,
+      "scenery": 8.5,
+      "culturalRichness": 9.5,
+      "crowdLevel": 5.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Delhi_fort.jpg",
+    "heroCaption": "The iconic red sandstone walls of Lal Qila, Old Delhi",
+    "fieldNotes": "A UNESCO World Heritage Site and the main residence of the Mughal emperors for nearly 200 years. The Red Fort's massive red sandstone walls and the Lahore Gate are iconic symbols of India — the site from which the Prime Minister addresses the nation every Independence Day.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": true,
+      "activities": [
+        "Heritage Walk",
+        "Museum",
+        "Light & Sound Show",
+        "Chandni Chowk"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "3 million+",
+      "trafficData": [
+        60,
+        62,
+        68,
+        65,
+        58,
+        40,
+        35,
+        38,
+        50,
+        68,
+        75,
+        65
+      ]
+    },
+    "entryFees": {
+      "indian": "₹35",
+      "foreign": "₹500",
+      "notes": "Light & Sound shows: ₹80 (Hindi), ₹100 (English)."
+    },
+    "stayOptions": "Old Delhi budget hotels. Luxury options in Connaught Place area.",
+    "permits": "No special permits. Security check mandatory."
+  },
+  {
+    "id": "fatehpur-sikri",
+    "name": "Fatehpur Sikri",
+    "state": "Uttar Pradesh",
+    "region": "North India",
+    "category": "heritage",
+    "coordinates": [
+      77.6631,
+      27.0945
+    ],
+    "isScore": 8.7,
+    "scores": {
+      "accessibility": 7.5,
+      "heritageValue": 9.0,
+      "scenery": 8.0,
+      "culturalRichness": 9.0,
+      "crowdLevel": 7.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
+    "heroCaption": "Buland Darwaza, the great gateway of Fatehpur Sikri",
+    "fieldNotes": "Built by Emperor Akbar and abandoned after just 14 years due to water shortage, this UNESCO ghost city is remarkably preserved. Its Buland Darwaza at 54m is among the world's highest gateways. The entire city is a masterpiece of Mughal urban planning.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": true,
+      "activities": [
+        "Heritage Walk",
+        "Architecture",
+        "Photography",
+        "Dargah Visit"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "600,000+",
+      "trafficData": [
+        50,
+        55,
+        60,
+        55,
+        42,
+        28,
+        22,
+        25,
+        38,
+        58,
+        68,
+        58
+      ]
+    },
+    "entryFees": {
+      "indian": "₹40",
+      "foreign": "₹610",
+      "notes": "40 km from Agra. Can combine with Taj Mahal in same day."
+    },
+    "stayOptions": "Day trip from Agra is most common. Small guesthouses available in Fatehpur Sikri town.",
+    "permits": "No special permits."
+  },
+  {
+    "id": "chola-temples",
+    "name": "Brihadeeswarar Temple",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "category": "heritage",
+    "coordinates": [
+      81.081,
+      10.7828
+    ],
+    "isScore": 9.1,
+    "scores": {
+      "accessibility": 8.5,
+      "heritageValue": 9.8,
+      "scenery": 8.5,
+      "culturalRichness": 9.5,
+      "crowdLevel": 8.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg",
+    "heroCaption": "The towering vimana of Brihadeeswarar Temple, Thanjavur",
+    "fieldNotes": "Built by Raja Raja Chola I in 1010 CE and a UNESCO World Heritage Site, this 66-metre tall Dravidian temple is a zenith of Chola architecture. The massive Nandi bull sculpture and the shadow-less dome are marvels of ancient engineering.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": true,
+      "activities": [
+        "Temple Architecture",
+        "Classical Dance Performances",
+        "Photography",
+        "Heritage Walk"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "1 million+",
+      "trafficData": [
+        55,
+        58,
+        62,
+        60,
+        52,
+        42,
+        38,
+        40,
+        50,
+        65,
+        72,
+        62
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "₹250",
+      "notes": "Light & Sound show in the evenings."
+    },
+    "stayOptions": "Stay in Thanjavur town. Ideal base for exploring the Chola heartland.",
+    "permits": "No permits required."
+  },
+  {
+    "id": "sundarbans",
+    "name": "Sundarbans",
+    "state": "West Bengal",
+    "region": "East India",
+    "category": "wildlife",
+    "coordinates": [
+      88.9,
+      21.9497
+    ],
+    "isScore": 9.0,
+    "scores": {
+      "accessibility": 4.0,
+      "heritageValue": 8.5,
+      "scenery": 9.5,
+      "culturalRichness": 7.0,
+      "crowdLevel": 9.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Save_the_sundarbans_20.jpg",
+    "heroCaption": "Dense mangrove channels of the Sundarbans delta",
+    "fieldNotes": "The world's largest mangrove forest and a UNESCO World Heritage Site, home to the Royal Bengal Tiger — the only tiger population in the world that has adapted to swimming through tidal waterways. Accessible only by boat through labyrinthine channels.",
+    "summary": {
+      "bestTimeToVisit": "October–March",
+      "unescoListed": true,
+      "activities": [
+        "Boat Safari",
+        "Tiger Spotting",
+        "Bird Watching",
+        "Mangrove Exploration"
+      ],
+      "familyFriendly": false,
+      "photographyAllowed": true,
+      "beginnerFriendly": false,
+      "permitRequired": "Forest Permit"
+    },
+    "basics": {
+      "visitorsPerYear": "50,000+",
+      "trafficData": [
+        55,
+        58,
+        60,
+        52,
+        30,
+        15,
+        10,
+        12,
+        25,
+        52,
+        68,
+        60
+      ]
+    },
+    "entryFees": {
+      "indian": "₹130/day",
+      "foreign": "₹1,000/day",
+      "notes": "Only accessible via organized boat tours from Kolkata. 2-3 night tours recommended."
+    },
+    "stayOptions": "Eco-lodges inside the buffer zone. Sajnakhali and Gosaba are main bases.",
+    "permits": "Forest Department permit mandatory. Organized tour operators handle permits."
+  },
+  {
+    "id": "shimla",
+    "name": "Shimla",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "category": "hill-station",
+    "coordinates": [
+      77.1734,
+      31.1048
+    ],
+    "isScore": 8.5,
+    "scores": {
+      "accessibility": 8.5,
+      "heritageValue": 8.0,
+      "scenery": 8.5,
+      "culturalRichness": 8.5,
+      "crowdLevel": 5.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Landscape_of_Shimla_%2C_Himachal_Pradesh.jpg",
+    "heroCaption": "Colonial-era architecture along The Mall Road, Shimla",
+    "fieldNotes": "The former summer capital of British India, perched at 2,200 m in the Himalayas. Shimla's Victorian architecture, the famous toy train on the UNESCO-listed Kalka-Shimla Railway, and its apple orchards make it the most iconic hill station in India.",
+    "summary": {
+      "bestTimeToVisit": "March–June, December–January (snow)",
+      "unescoListed": true,
+      "activities": [
+        "Toy Train Ride",
+        "Heritage Walk",
+        "Mall Road",
+        "Skiing at Kufri"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "2.5 million+",
+      "trafficData": [
+        30,
+        35,
+        50,
+        65,
+        75,
+        70,
+        60,
+        65,
+        60,
+        55,
+        40,
+        35
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "Free",
+      "notes": "Toy train Shimla-Kalka: ₹290 (Indian), ₹790 (foreign)."
+    },
+    "stayOptions": "Heritage hotels on Ridge Road with colonial charm. Wide range from budget to luxury.",
+    "permits": "No permits required."
+  },
+  {
+    "id": "ooty",
+    "name": "Ooty",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "category": "hill-station",
+    "coordinates": [
+      76.695,
+      11.4102
+    ],
+    "isScore": 8.4,
+    "scores": {
+      "accessibility": 8.5,
+      "heritageValue": 7.5,
+      "scenery": 9.0,
+      "culturalRichness": 7.5,
+      "crowdLevel": 5.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ooty_lake.jpg",
+    "heroCaption": "The Nilgiri Mountain Railway ascending through tea estates",
+    "fieldNotes": "The 'Queen of Hill Stations' sits at 2,240 m in the Nilgiri Hills. Famous for its tea estates, rose garden, and the iconic blue Nilgiri Mountain Railway — a UNESCO Heritage Site that winds through tunnels and verdant forests aboard a century-old steam train.",
+    "summary": {
+      "bestTimeToVisit": "April–June",
+      "unescoListed": true,
+      "activities": [
+        "Nilgiri Railway",
+        "Tea Factory Tour",
+        "Botanical Garden",
+        "Boat House"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": true,
+      "permitRequired": "None"
+    },
+    "basics": {
+      "visitorsPerYear": "3 million+",
+      "trafficData": [
+        40,
+        45,
+        55,
+        75,
+        85,
+        70,
+        55,
+        55,
+        60,
+        65,
+        55,
+        45
+      ]
+    },
+    "entryFees": {
+      "indian": "Free",
+      "foreign": "Free",
+      "notes": "Nilgiri Railway: ₹25–70 (Indian), ₹285 (foreign)."
+    },
+    "stayOptions": "Heritage cottages and club hotels. Savoy Hotel is a classic colonial hotel.",
+    "permits": "No permits required."
+  },
+  {
+    "id": "jim-corbett",
+    "name": "Jim Corbett National Park",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "category": "wildlife",
+    "coordinates": [
+      78.7747,
+      29.53
+    ],
+    "isScore": 9.1,
+    "scores": {
+      "accessibility": 7.5,
+      "heritageValue": 8.0,
+      "scenery": 9.2,
+      "culturalRichness": 7.0,
+      "crowdLevel": 7.5
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg",
+    "heroCaption": "Bengal Tiger in Jim Corbett, India's oldest national park",
+    "fieldNotes": "India's oldest national park and the first to come under Project Tiger in 1973. Named after the legendary hunter-turned-conservationist Jim Corbett, this Terai grassland park in the Himalayan foothills has one of India's highest tiger densities.",
+    "summary": {
+      "bestTimeToVisit": "November–June",
+      "unescoListed": false,
+      "activities": [
+        "Jeep Safari",
+        "Elephant Safari",
+        "Bird Watching",
+        "Corbett Museum"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": false,
+      "permitRequired": "Safari Permit"
+    },
+    "basics": {
+      "visitorsPerYear": "200,000+",
+      "trafficData": [
+        55,
+        58,
+        62,
+        65,
+        60,
+        0,
+        0,
+        0,
+        0,
+        48,
+        65,
+        58
+      ]
+    },
+    "entryFees": {
+      "indian": "₹1,250 (Jeep)",
+      "foreign": "₹5,000 (Jeep)",
+      "notes": "Park closed mid-June to mid-November. Dhikala zone is best for wildlife."
+    },
+    "stayOptions": "Luxury jungle lodges outside park boundary. Forest Rest Houses inside (book via park authority).",
+    "permits": "Online booking mandatory via corbettonline.uk.gov.in. Dhikala requires 45-day advance."
+  },
+  {
+    "id": "golconda-fort",
+    "name": "Golconda Fort",
+    "state": "Telangana",
+    "region": "South India",
+    "category": "fort",
+    "coordinates": [
+      78.4022,
+      17.3833
+    ],
+    "isScore": 8.8,
+    "scores": {
+      "accessibility": 8.5,
+      "heritageValue": 9.0,
+      "scenery": 8.5,
+      "culturalRichness": 9.0,
+      "crowdLevel": 7.0
+    },
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/5/56/Golconda_Fort_005.jpg",
+    "heroCaption": "Golconda Fort's massive granite bastions, Hyderabad",
+    "fieldNotes": "Once the capital of the Qutb Shahi dynasty and the Mughal province of Hyderabad, Golconda was one of the world's leading diamond trading centres — the Koh-i-Noor and Hope Diamond originated here. Its ingenious acoustic system can carry a whistle from the gate to the top.",
+    "summary": {
+      "bestTimeToVisit": "October–February",
+      "unescoListed": false,
+      "activities": [
+        "Fort Walk",
+        "Acoustic Demonstration",
+        "Light & Sound Show",
+        "City Views"
+      ],
+      "familyFriendly": true,
+      "photographyAllowed": true,
+      "beginnerFriendly": false,
+      "permitRequired": "Entry Ticket"
+    },
+    "basics": {
+      "visitorsPerYear": "1 million+",
+      "trafficData": [
+        55,
+        58,
+        62,
+        60,
+        52,
+        38,
+        32,
+        35,
+        48,
+        65,
+        70,
+        62
+      ]
+    },
+    "entryFees": {
+      "indian": "₹25",
+      "foreign": "₹300",
+      "notes": "Light & Sound show evenings: ₹130–160."
+    },
+    "stayOptions": "Stay in Hyderabad city. Wide range from budget hotels in Abids to luxury in Banjara Hills.",
+    "permits": "No special permits."
+  }
+]
