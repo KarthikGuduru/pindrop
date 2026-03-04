@@ -32,24 +32,15 @@ export default function SpotMap({ spots, selectedSpot, onSpotSelect }: SpotMapPr
             L.Marker.prototype.options.icon = DefaultIcon;
 
             const map = L.map(mapContainer.current!, {
-                center: [20.5937, 78.9629], // Centre of India
-                zoom: 5,
+                center: [20, 0], // world centre
+                zoom: 2.5,
                 zoomControl: false,
             });
 
-            // Stadia Stamen Watercolor — beautiful free vintage tiles (no key needed)
-            L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg', {
-                attribution: '&copy; <a href="https://stamen.com">Stamen Design</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-                minZoom: 3,
-                maxZoom: 16,
-            }).addTo(map);
-
-            // Add labels overlay on top of watercolor
-            L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_labels/{z}/{x}/{y}{r}.png', {
-                attribution: '',
-                minZoom: 4,
-                maxZoom: 16,
-                opacity: 0.5,
+            // CartoDB Voyager — clean, modern, and completely free without API keys
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+                maxZoom: 19,
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
             }).addTo(map);
 
             // Custom zoom control
